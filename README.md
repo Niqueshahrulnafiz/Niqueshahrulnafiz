@@ -1,15 +1,15 @@
 <h1 align="center">Hello there, my name is Nik Shahrul Nafiz 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LLMs+%2B+RAG+%2B+Agentic+AI;MSc+AI%2C+NTU+Singapore+(JPA+Scholar);I+build+things+with+LLMs+and+agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LLMs+%2B+RAG+%2B+Agentic+AI;MSc+AI%2C+NTU+Singapore+(JPA+Scholar);I+build+things+with+LLMs+and+agents" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/nik-shahrul-nafiz-nik-azhan-314360237">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-39D353?style=for-the-badge&logo=linkedin&logoColor=0D1117" />
   </a>
   <a href="mailto:NIKS0001@e.ntu.edu.sg">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-39D353?style=for-the-badge&logo=gmail&logoColor=0D1117" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 ### 🔭 What I'm building
 
 - 🤖 **Agentic AI systems** — multi-agent coordination, RAG pipelines, LLM-powered production tools
-- 🎓 Finishing my **MSc in Artificial Intelligence** at NTU Singapore, as a **JPA Scholar**
+- 🎓 Completed my **MSc in Artificial Intelligence** at NTU Singapore, as a **JPA Scholar**
 - 💼 Previously: **AI Engineer** at Mesiniaga Berhad, **Technology Consultant** at Ernst & Young Malaysia
 
 ### 🌱 What I'm learning right now
@@ -55,15 +55,17 @@
 - ⚽ Represented EY's Digital Engineering team in a 7-a-side football tournament
 - 🤝 Volunteer — community engagement with orphaned children, Rumah Hope & Rumah Ozanam
 
+### 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niqueshahrulnafiz&theme=github-compact&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Niqueshahrulnafiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niqueshahrulnafiz&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niqueshahrulnafiz&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Niqueshahrulnafiz&show_icons=true&title_color=39D353&icon_color=39D353&text_color=C9D1D9&bg_color=0D1117&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niqueshahrulnafiz&layout=compact&title_color=39D353&text_color=C9D1D9&bg_color=0D1117&hide_border=true" />
 </p>
 
 ### 📫 Reach me
@@ -74,5 +76,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Niqueshahrulnafiz&style=flat&color=2E9EF7" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Niqueshahrulnafiz&style=flat&color=39D353" alt="profile views" />
 </p>
