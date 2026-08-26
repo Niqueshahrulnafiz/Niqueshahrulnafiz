@@ -5,7 +5,6 @@
 </p>
 
 ### Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Niqueshahrulnafiz/Niqueshahrulnafiz/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
@@ -40,10 +39,6 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,java,js,cpp,fastapi,django,postgres,mongodb,gcp,azure,git" />
 </p>
 
-**AI/ML:** LangChain · GPT-4 · RAG · Prompt Engineering · Agentic AI · Multi-Agent Systems
-**Cloud:** Google Cloud Platform · Vertex AI · Azure OpenAI
-**Data:** MongoDB · PostgreSQL · pgvector · RESTful APIs
-
 ### Beyond the code
 
 - Guest Speaker at Multimedia University — AI-Augmented Engineering, to 108 students
@@ -51,13 +46,6 @@
 - Active golfer — spearheaded a 14-participant company golf tournament
 - Represented EY's Digital Engineering team in a 7-a-side football tournament
 - Volunteer — community engagement with orphaned children, Rumah Hope & Rumah Ozanam
-
-### GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Niqueshahrulnafiz&show_icons=true&title_color=39D353&icon_color=39D353&text_color=C9D1D9&bg_color=0D1117&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niqueshahrulnafiz&layout=compact&title_color=39D353&text_color=C9D1D9&bg_color=0D1117&hide_border=true" />
-</p>
 
 ### Reach me
 
