@@ -4,15 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LLMs+%2B+RAG+%2B+Agentic+AI;MSc+AI%2C+NTU+Singapore+(JPA+Scholar);I+build+things+with+LLMs+and+agents" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/nik-shahrul-nafiz-nik-azhan-314360237">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:NIKS0001@e.ntu.edu.sg">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### What I'm building
@@ -64,17 +55,17 @@
 ### GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Niqueshahrulnafiz&show_icons=true&title_color=39D353&icon_color=39D353&text_color=C9D1D9&bg_color=0D1117&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Niqueshahrulnafiz&show_icons=true&title_color=39D353&icon_color=39D353&text_color=C9D1D9&bg_color=0D1117&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niqueshahrulnafiz&layout=compact&title_color=39D353&text_color=C9D1D9&bg_color=0D1117&hide_border=true" />
 </p>
 
 ### Reach me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nik-shahrul-nafiz-nik-azhan-314360237">LinkedIn</a> ·
-  <a href="mailto:NIKS0001@e.ntu.edu.sg">Email</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Niqueshahrulnafiz&style=flat&color=39D353" alt="profile views" />
+  <a href="https://linkedin.com/in/nik-shahrul-nafiz-nik-azhan-314360237">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:NIKS0001@e.ntu.edu.sg">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
