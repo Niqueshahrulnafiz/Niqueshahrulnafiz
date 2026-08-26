@@ -64,13 +64,13 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Niqueshahrulnafiz&show_icons=true&title_color=39D353&icon_color=39D353&text_color=C9D1D9&bg_color=0D1117&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niqueshahrulnafiz&layout=compact&title_color=39D353&text_color=C9D1D9&bg_color=0D1117&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Niqueshahrulnafiz&show_icons=true&title_color=39D353&icon_color=39D353&text_color=C9D1D9&bg_color=0D1117&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niqueshahrulnafiz&layout=compact&title_color=39D353&text_color=C9D1D9&bg_color=0D1117&hide_border=true" />
 </p>
 
 ### Reach me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/nik-shahrul-nafiz-nik-azhan-314360237">LinkedIn</a> ·
   <a href="mailto:NIKS0001@e.ntu.edu.sg">Email</a>
 </p>
