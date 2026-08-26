@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, my name is Nik Shahrul Nafiz 👋</h1>
+<h1 align="center">Hello there, my name is Nik Shahrul Nafiz 😁</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LLMs+%2B+RAG+%2B+Agentic+AI;MSc+AI%2C+NTU+Singapore+(JPA+Scholar);I+build+things+with+LLMs+and+agents" alt="Typing SVG" />
@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/nik-shahrul-nafiz-nik-azhan-314360237">
-    <img src="https://img.shields.io/badge/LinkedIn-39D353?style=for-the-badge&logo=linkedin&logoColor=0D1117" />
+    <img src="https://img.shields.io/badge/LinkedIn-39D353?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:NIKS0001@e.ntu.edu.sg">
-    <img src="https://img.shields.io/badge/Email-39D353?style=for-the-badge&logo=gmail&logoColor=0D1117" />
+    <img src="https://img.shields.io/badge/Email-39D353?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -17,25 +17,25 @@
 
 ### 🔭 What I'm building
 
-- 🤖 **Agentic AI systems** — multi-agent coordination, RAG pipelines, LLM-powered production tools
-- 🎓 Completed my **MSc in Artificial Intelligence** at NTU Singapore, as a **JPA Scholar**
+- 🤖 **Agentic AI systems**: multi-agent coordination, RAG pipelines, LLM-powered production tools
+- 🎓 Completed my **MSc in Artificial Intelligence** at NTU Singapore
 - 💼 Previously: **AI Engineer** at Mesiniaga Berhad, **Technology Consultant** at Ernst & Young Malaysia
 
 ### 🌱 What I'm learning right now
 
-- Deepening **agentic architecture & orchestration** (LangGraph, multi-agent patterns)
+- Deepening **agentic architecture & orchestration**
 - Working through **AWS AI Practitioner**, **Google Cloud GenAI**, and **Claude Certified Architect** certifications
 
 ### 💡 A few things I've shipped
 
 | Project | What it does | Result |
 |---|---|---|
-| 🧩 **Tile World Multi-Agent System** | Six-agent coordination system (MASON framework) — shared pathfinding, memory, broadcast protocol | **27x** reward improvement, top-of-class |
-| 🔀 **LLM Merging Techniques** | Benchmarked 4 training-free LLM merging methods across model families | Found where the "best" method breaks under compression |
-| 🛣️ **Depth-Enhanced Lane Navigation** | Extended an ICLR 2026 model with a depth input channel | Diagnosed & fixed a real training failure (zero-init embedding) |
-| 🧪 **Chemical Melting Point Prediction** | ML pipeline on 28K+ compounds, engineered 2,080+ molecular features | 🏆 **Top 10%** of 530+ teams (Kaggle) |
-| 🔎 **Bursa Listing Vector Search** | Semantic search over 50K+ documents (PostgreSQL + pgvector) | **87%** precision, **87%** time reduction |
-| 📄 **SOW Application** | LLM document-processing pipeline mapping client requests to services | **92%** accuracy, driving process improvement |
+| **Tile World Multi-Agent System** | Six-agent coordination system (MASON framework) — shared pathfinding, memory, broadcast protocol | **27x** reward improvement, top-of-class |
+| **LLM Merging Techniques** | Benchmarked 4 training-free LLM merging methods across model families | Found where the "best" method breaks under compression |
+| **Depth-Enhanced Lane Navigation** | Extended an ICLR 2026 model with a depth input channel | Diagnosed & fixed a real training failure (zero-init embedding) |
+| **Chemical Melting Point Prediction** | ML pipeline on 28K+ compounds, engineered 2,080+ molecular features | 🏆 **Top 10%** of 530+ teams (Kaggle) |
+| **Bursa Listing Vector Search** | Semantic search over 50K+ documents (PostgreSQL + pgvector) | **87%** precision, **87%** time reduction |
+| **SOW Application** | LLM document-processing pipeline mapping client requests to services | **92%** accuracy, driving process improvement |
 
 ### 🛠️ Tech I work with
 
