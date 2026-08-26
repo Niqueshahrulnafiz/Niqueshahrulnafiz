@@ -36,7 +36,7 @@
 </p>
 
 ### -> Beyond the code
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=39D353&center=true&vCenter=true&width=750&lines=%F0%9F%8E%A4+Guest+Speaker+at+Multimedia+University+%E2%80%94+to+108+students;%F0%9F%8E%89+Company+Emcee%2C+Mesiniaga+Berhad+%E2%80%94+hosted+the+kickoff+meeting;%E2%9B%B3+Active+golfer+%E2%80%94;%E2%9A%BD+Represented+EY%27s+Digital+Engineering+team%2C+7-a-side+football;%F0%9F%A4%9D+Volunteer+%E2%80%94+Rumah+Hope+%26+Rumah+Ozanam" alt="Beyond the code" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=39D353&center=true&vCenter=true&width=750&lines=%F0%9F%8E%A4+Guest+Speaker+at+Multimedia+University+%E2%80%94+to+108+students;%F0%9F%8E%89+Company+Emcee%2C+Mesiniaga+Berhad+%E2%80%94+hosted+the+kickoff+meeting;%E2%9B%B3+Active+golfer;%E2%9A%BD+Represented+EY%27s+Digital+Engineering+team%2C+7-a-side+football;%F0%9F%A4%9D+Volunteer+%E2%80%94+Rumah+Hope+%26+Rumah+Ozanam" alt="Beyond the code" /> </p>
 
 ### -> Reach me :)
 <p align="center">
