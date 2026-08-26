@@ -11,18 +11,18 @@
 
 ---
 
-### What I'm building
+### -> What I'm building
 
-- Agentic AI systems — multi-agent coordination, RAG pipelines, LLM-powered production tools
-- Completed my MSc in Artificial Intelligence at NTU Singapore, as a JPA Scholar
+- Agentic AI systems, multi-agent coordination, RAG pipelines, LLM-powered production tools
+- Completed my MSc in Artificial Intelligence at NTU Singapore
 - Previously: AI Engineer at Mesiniaga Berhad, Technology Consultant at Ernst & Young Malaysia
 
-### What I'm learning right now
+### -> What I'm learning right now
 
 - Deepening agentic architecture & orchestration (LangGraph, multi-agent patterns)
 - Working through AWS AI Practitioner, Google Cloud GenAI, and Claude Certified Architect certifications
 
-### A few things I've shipped
+### -> A few things I've shipped
 
 | Project | What it does | Result |
 |---|:---|:---|
@@ -33,21 +33,16 @@
 | **Bursa Listing Vector Search** | Semantic search over 50K+ documents (PostgreSQL + pgvector) | 87% precision, 87% time reduction |
 | **SOW Application** | LLM document-processing pipeline mapping client requests to services | 92% accuracy, driving process improvement |
 
-### Tech I work with
+### -> Tech I work with
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,java,js,cpp,fastapi,django,postgres,mongodb,gcp,azure,git" />
 </p>
 
-### Beyond the code
+### -> Beyond the code
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=39D353&center=true&vCenter=true&width=750&lines=Guest+Speaker+at+Multimedia+University+%E2%80%94+AI-Augmented+Engineering%2C+to+108+students;Company+Emcee%2C+Mesiniaga+Berhad+%E2%80%94+hosted+the+company-wide+kickoff+meeting;Active+golfer+%E2%80%94+spearheaded+a+14-participant+company+golf+tournament;Represented+EY%27s+Digital+Engineering+team+in+a+7-a-side+football+tournament;Volunteer+%E2%80%94+community+engagement+with+orphaned+children%2C+Rumah+Hope+%26+Rumah+Ozanam" alt="Beyond the code" /> </p>
 
-- Guest Speaker at Multimedia University — AI-Augmented Engineering, to 108 students
-- Company Emcee, Mesiniaga Berhad — hosted the company-wide kickoff meeting
-- Active golfer — spearheaded a 14-participant company golf tournament
-- Represented EY's Digital Engineering team in a 7-a-side football tournament
-- Volunteer — community engagement with orphaned children, Rumah Hope & Rumah Ozanam
-
-### Reach me
+### -> Reach me :)
 
 <p align="center">
   <a href="https://linkedin.com/in/nik-shahrul-nafiz-nik-azhan-314360237">
