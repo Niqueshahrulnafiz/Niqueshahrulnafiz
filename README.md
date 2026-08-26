@@ -1,4 +1,5 @@
 <h1 align="center">Hello there, my name is Nik Shahrul Nafiz</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LLMs+%2B+RAG+%2B+Agentic+AI;MSc+AI%2C+NTU+Singapore;I+build+things+with+LLMs+and+agents" alt="Typing SVG" />
 </p>
