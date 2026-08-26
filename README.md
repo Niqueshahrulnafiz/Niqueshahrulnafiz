@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LLMs+%2B+RAG+%2B+Agentic+AI;MSc+AI%2C+NTU+Singapore+(JPA+Scholar);I+build+things+with+LLMs+and+agents" alt="Typing SVG" />
 </p>
 
+### Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Niqueshahrulnafiz/Niqueshahrulnafiz/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</p>
+
 ---
 
 ### What I'm building
@@ -45,12 +51,6 @@
 - Active golfer — spearheaded a 14-participant company golf tournament
 - Represented EY's Digital Engineering team in a 7-a-side football tournament
 - Volunteer — community engagement with orphaned children, Rumah Hope & Rumah Ozanam
-
-### Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Niqueshahrulnafiz/Niqueshahrulnafiz/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
 
 ### GitHub Stats
 
